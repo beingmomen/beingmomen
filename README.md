@@ -1,6 +1,6 @@
 # Abdelmomen Elshatory
 
-**Senior Frontend Engineer · Nuxt · Vue · TypeScript**
+**Senior Frontend Engineer · Nuxt · Vue**
 
 I build Arabic-first, RTL-ready production web applications — business systems that
 companies actually run on: distribution management, invoicing and collections,
