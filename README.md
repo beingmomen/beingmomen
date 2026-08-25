@@ -15,4 +15,4 @@ I document the architecture decisions instead:
 - 🌍 Alexandria, Egypt — open to remote roles
 - ✉️ abdelmomenelshatory@gmail.com
 
-**Stack:** Vue 3 · Nuxt 3 · TypeScript · Pinia · Tailwind CSS · SCSS · Node.js · Express · MongoDB · Git
+**Stack:** Vue 3 · Nuxt 4 · TypeScript · Pinia · Tailwind CSS · SCSS · Node.js · Express · MongoDB · Git
